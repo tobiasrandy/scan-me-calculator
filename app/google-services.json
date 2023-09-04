@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250114360449",
+    "project_id": "scan-me-calculator-818ff",
+    "storage_bucket": "scan-me-calculator-818ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250114360449:android:884fb9f3afa8e64a94b980",
+        "android_client_info": {
+          "package_name": "com.scan.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250114360449-qllraa0srulkpnh4vee5jjo3nc4f5vdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkp2BJfj2KFTUoi-EGVMqTRs-06WF_ULU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250114360449-qllraa0srulkpnh4vee5jjo3nc4f5vdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
